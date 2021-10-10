@@ -4,7 +4,7 @@ Trabalho final da disciplina de Engenharia de Software - UnB
 
 Integrantes
 
-Gabriel / Mat \n
+Gabriel / Mat 
 Matheus / Mat
 Pedro   / Mat
 
