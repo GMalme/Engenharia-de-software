@@ -5,7 +5,7 @@ Trabalho final da disciplina de Engenharia de Software - UnB
 Integrantes
 
 Gabriel / Mat 
-Matheus / Mat
+Alexander Matheus de Melo Lima / 12/0108534
 Pedro   / Mat
 
 Tarefas
