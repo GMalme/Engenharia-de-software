@@ -4,9 +4,9 @@ Trabalho final da disciplina de Engenharia de Software - UnB
 
 Integrantes
 
-Gabriel 
-Matheus
-Pedro
+Gabriel / Mat
+Matheus / Mat
+Pedro   / Mat
 
 Tarefas
 
