@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Gerenciamento de Teatro</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>Gerenciamento de Teatro - Compra</title>
+    <link rel="stylesheet" href="compra.css" />
   </head>
   <body>
     <div class="Container">
       <h1>Gerenciamento de Teatro</h1>
       <h1>Compra de ingresso.<h1>
-      <p>Coloque suas credenciais para acessar a sua conta.</p>
+      <p>Informe qual peça você deseja comprar.</p>
       <form>
-        <label>Usuário</label>
-        <input type="text" placeholder="Insira seu login"/>
-        <label>Senha</label>
-        <input type="password" placeholder="Insira sua senha"/>
-        <button type="submit">Fazer login</button>
+        <label>Peça que voce deseja assistir:</label>
+        <select>
+          <option value="Romeu e Julieta">Romeu e Julieta</option>
+          <option value="Sonho de uma noite de verão">Sonho de uma noite de verão</option>
+          <option value="Hairspray">Hairspray</option>
+          <option value="Vestido de Noiva">Vestido de Noiva</option>
+        </select>
+        <label>Horário que deseja assistir:</label>
+        <select>
+          <option value="13:00">13:00</option>
+          <option value="15:00">15:00</option>
+          <option value="18:00">18:00</option>
+          <option value="21:00">21:00</option>
+        </select>
+        <button type="submit">Fazer a compra</button>
       </form>
     </div>
   </body>
