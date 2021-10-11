@@ -16,7 +16,7 @@ Tarefas
  Lista de ferramentas (tools) . (Pedro)  
  Glossário (glossary).(Gabriel)  
  Documento de visão (vision). (Gabriel)  
- Descrições de requisitos que não sejam expressos por meio de casos de uso (system-wide requirements). (Matheus)  
+ Descrições de requisitos que não sejam expressos por meio de casos de uso (system-wide requirements). (Pedro)  
  Modelo de casos de uso (use-case model) . (Gabriel)  
  Descrições detalhadas dos casos de uso (use case). (Gabriel)  
  Descrição da arquitetura do software (architecture notebook). ()  
