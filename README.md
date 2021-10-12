@@ -4,8 +4,8 @@ Trabalho final da disciplina de Engenharia de Software - UnB
 
 Integrantes
 
-- Gabriel Martins de Almeida     / 190013371  
 - Alexander Matheus de Melo Lima / 120108534  
+- Gabriel Martins de Almeida     / 190013371  
 - Pedro Chaves                   / 170153835  
 
 Tarefas
