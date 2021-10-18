@@ -1,0 +1,4 @@
+O protótipo do projeto foi hospeado na seguinte URL: https://gerenciamento-teatro.vercel.app/ - Podendo ser acessado a qualquer momento.
+
+O plano de projeto contém tanto o artefato de plano de projeto quanto o plano de iteração que foi utilizado durante o processo de desenvolvimento do projeto.
+
